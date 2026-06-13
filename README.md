@@ -122,16 +122,12 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/shivam-kumar-574600144/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   
-  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
+  <a href="[https://YOUR-PORTFOLIO.com](https://shivamport.in/)" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="40" width="40" />
-  </a>
-  
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" alt="LeetCode" height="40" width="40" />
   </a>
 </p>
 
